@@ -139,9 +139,8 @@ body{
   font-size: 16px;
   padding: 5px 110px;
   margin: 10px 0px;
+  display: block;
 }
-
-
 
 
 #form-container{
@@ -259,5 +258,9 @@ footer{
   
 }
 
+.btn{
+  padding: 5px 205px;
+  display: block;
+}
 
  }
