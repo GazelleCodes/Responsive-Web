@@ -16,7 +16,7 @@ body{
 }
 
 #wrapper{
-  width: 90%;
+  width: 100%;
   background-color: #fff;
   margin-left: auto;
   margin-right: auto;
@@ -225,8 +225,8 @@ footer{
   justify-content: center;
   align-items: center;
   position: absolute;
-  top: 0px;
-  right: 30px;
+  top: 4px;
+  right: 10px;
   display: block;
 }
 
@@ -234,7 +234,7 @@ footer{
 
 
 .btn{
-  padding: 5px 185px;
+  padding: 5px 205px;
   display: block;
 }
 
@@ -264,7 +264,7 @@ footer{
   display: block;
 }
 #map{
-  background: url("../images/map.jpg") no-repeat center center/420px 400px;
+  background: url("../images/map.jpg") no-repeat center center/470px 480px;
   padding: 100px 0px;
   display: block;
   
