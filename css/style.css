@@ -137,9 +137,8 @@ body{
   border-style: none;
   color:#000;
   font-size: 16px;
-  padding: 5px 95px;
+  padding: 5px 110px;
   margin: 10px 0px;
-  display: block;
 }
 
 
@@ -229,16 +228,6 @@ footer{
   right: 10px;
   display: block;
 }
-
-
-
-
-.btn{
-  padding: 5px 175px;
-  display: block;
-}
-
-
 
 .content-names h2,
 .content-names p{
