@@ -133,13 +133,15 @@ body{
 
 
 .btn{
-  background: #F7EFEF;
+  text-align: center;
+  background: #F0EFF9;
+
+}
+
+.btn-success{
+  padding: 5px;
   border-style: none;
-  color:#000;
   font-size: 16px;
-  padding: 5px 110px;
-  margin: 10px 0px;
-  display: block;
 }
 
 
@@ -258,9 +260,6 @@ footer{
   
 }
 
-.btn{
-  padding: 5px 180px;
-  display: block;
-}
+
 
  }
